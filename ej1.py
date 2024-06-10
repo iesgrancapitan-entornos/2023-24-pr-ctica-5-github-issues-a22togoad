@@ -12,3 +12,4 @@ if num1 > num2:
     print("El primer número es mayor")
 else:
     print("El primer número no es mayor")
+
