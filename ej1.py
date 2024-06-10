@@ -10,6 +10,7 @@ num2 = int(input("Dime el segundo número: "))
 
 if num1 > num2:
     print("El primer número es mayor")
+elif num1 = num2:
+    print("Los números son iguales")
 else:
     print("El primer número no es mayor")
-
